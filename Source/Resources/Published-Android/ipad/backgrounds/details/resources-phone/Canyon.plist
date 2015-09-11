@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ipad/backgrounds/details/Canyon/bgCanyonDetail1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{203, 165}, {65, 65}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {65, 65}}</string>
+			<key>sourceSize</key>
+			<string>{65, 65}</string>
+		</dict>
+		<key>ipad/backgrounds/details/Canyon/bgCanyonDetail2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{337, 165}, {65, 65}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {65, 65}}</string>
+			<key>sourceSize</key>
+			<string>{65, 65}</string>
+		</dict>
+		<key>ipad/backgrounds/details/Canyon/bgCanyonDetail3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{270, 165}, {65, 65}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {65, 65}}</string>
+			<key>sourceSize</key>
+			<string>{65, 65}</string>
+		</dict>
+		<key>ipad/backgrounds/details/Canyon/bgCanyonSplash4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{28, 1}, {162, 325}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {162, 325}}</string>
+			<key>sourceSize</key>
+			<string>{162, 325}</string>
+		</dict>
+		<key>ipad/backgrounds/details/Canyon/lifeBar.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {200, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 25}}</string>
+			<key>sourceSize</key>
+			<string>{200, 25}</string>
+		</dict>
+		<key>ipad/backgrounds/details/Canyon/lifeBarBorder.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 203}, {200, 25}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 25}}</string>
+			<key>sourceSize</key>
+			<string>{200, 25}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+		<key>textureFileName</key>
+		<string>Canyon.png</string>
+	</dict>
+</dict>
+</plist>

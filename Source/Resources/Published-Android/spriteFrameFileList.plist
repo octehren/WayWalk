@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<integer>1</integer>
+	</dict>
+	<key>spriteFrameFiles</key>
+	<array>
+		<string>ipad/backgrounds/bgs/River.plist</string>
+		<string>ipad/feet/Dragon.plist</string>
+		<string>ipad/sceneAssets.plist</string>
+		<string>ipad/backgrounds/rocks/Galaxy.plist</string>
+		<string>ipad/backgrounds/bgs/Canyon.plist</string>
+		<string>ipad/feet/Tennis.plist</string>
+		<string>ipad/backgrounds/rocks/River.plist</string>
+		<string>ipad/feet/BlueJeans.plist</string>
+		<string>ipad/backgrounds/bgs/Galaxy.plist</string>
+		<string>ipad/backgrounds/details/Galaxy.plist</string>
+		<string>ipad/feet/Chicken.plist</string>
+		<string>ipad/backgrounds/details/Canyon.plist</string>
+		<string>ipad/buttons.plist</string>
+		<string>ipad/backgrounds/rocks/Canyon.plist</string>
+		<string>ipad/backgrounds/details/River.plist</string>
+	</array>
+</dict>
+</plist>

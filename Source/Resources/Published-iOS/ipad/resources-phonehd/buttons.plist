@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ipad/buttons/activeFacebookButton.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 683}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>ipad/buttons/activeGCenterButton.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{284, 197}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>ipad/buttons/activeTwitterButton.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 279}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>ipad/buttons/backBtn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{845, 1}, {164, 94}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {164, 94}}</string>
+			<key>sourceSize</key>
+			<string>{164, 94}</string>
+		</dict>
+		<key>ipad/buttons/button.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {420, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {420, 80}}</string>
+			<key>sourceSize</key>
+			<string>{420, 80}</string>
+		</dict>
+		<key>ipad/buttons/buttonH.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{423, 1}, {420, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {420, 80}}</string>
+			<key>sourceSize</key>
+			<string>{420, 80}</string>
+		</dict>
+		<key>ipad/buttons/charBtn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{797, 97}, {226, 73}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {226, 73}}</string>
+			<key>sourceSize</key>
+			<string>{226, 73}</string>
+		</dict>
+		<key>ipad/buttons/facebookButton.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 481}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>ipad/buttons/gCenterButton.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{688, 374}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>ipad/buttons/levelBtn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 83}, {320, 112}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {320, 112}}</string>
+			<key>sourceSize</key>
+			<string>{320, 112}</string>
+		</dict>
+		<key>ipad/buttons/okBtn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{645, 83}, {150, 125}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {150, 125}}</string>
+			<key>sourceSize</key>
+			<string>{150, 125}</string>
+		</dict>
+		<key>ipad/buttons/restartButton.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{797, 172}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>ipad/buttons/restartButtonHighlighted.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{405, 412}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>ipad/buttons/soundOff.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{486, 210}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>ipad/buttons/soundOn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{203, 399}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>ipad/buttons/startBtn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 197}, {281, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {281, 80}}</string>
+			<key>sourceSize</key>
+			<string>{281, 80}</string>
+		</dict>
+		<key>ipad/buttons/tutorialBtn.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{323, 83}, {320, 112}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {320, 112}}</string>
+			<key>sourceSize</key>
+			<string>{320, 112}</string>
+		</dict>
+		<key>ipad/buttons/twitterButton.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{203, 601}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>buttons.png</string>
+	</dict>
+</dict>
+</plist>

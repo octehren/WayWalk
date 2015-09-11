@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filenames</key>
+	<dict>
+		<key>CrossIt_Sounds/ciStudiosButton.wav</key>
+		<string>CrossIt_Sounds/ciStudiosButton.ogg</string>
+		<key>CrossIt_Sounds/congrats.wav</key>
+		<string>CrossIt_Sounds/congrats.ogg</string>
+		<key>CrossIt_Sounds/scream.wav</key>
+		<string>CrossIt_Sounds/scream.ogg</string>
+		<key>CrossIt_Sounds/splashCanyon.wav</key>
+		<string>CrossIt_Sounds/splashCanyon.ogg</string>
+		<key>CrossIt_Sounds/splashFarmfield.wav</key>
+		<string>CrossIt_Sounds/splashFarmfield.ogg</string>
+		<key>CrossIt_Sounds/splashGalaxy.wav</key>
+		<string>CrossIt_Sounds/splashGalaxy.ogg</string>
+		<key>CrossIt_Sounds/splashRiver.wav</key>
+		<string>CrossIt_Sounds/splashRiver.ogg</string>
+		<key>CrossIt_Sounds/step.wav</key>
+		<string>CrossIt_Sounds/step.ogg</string>
+		<key>CrossIt_Sounds/walk.wav</key>
+		<string>CrossIt_Sounds/walk.ogg</string>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>

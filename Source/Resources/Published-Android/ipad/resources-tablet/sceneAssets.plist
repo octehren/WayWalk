@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ipad/sceneAssets/choozeLabel.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{143, 643}, {320, 112}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {320, 112}}</string>
+			<key>sourceSize</key>
+			<string>{320, 112}</string>
+		</dict>
+		<key>ipad/sceneAssets/dot1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{257, 921}, {100, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 100}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ipad/sceneAssets/dot2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{359, 921}, {100, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 100}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ipad/sceneAssets/dot3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{461, 921}, {100, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 100}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>ipad/sceneAssets/endScreen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{403, 1}, {512, 1024}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {512, 1024}}</string>
+			<key>sourceSize</key>
+			<string>{512, 1024}</string>
+		</dict>
+		<key>ipad/sceneAssets/hiScore.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{967, 717}, {128, 128}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {128, 128}}</string>
+			<key>sourceSize</key>
+			<string>{128, 128}</string>
+		</dict>
+		<key>ipad/sceneAssets/leftSideHand.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{257, 643}, {258, 276}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {258, 276}}</string>
+			<key>sourceSize</key>
+			<string>{258, 276}</string>
+		</dict>
+		<key>ipad/sceneAssets/leftWhiteSignal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{777, 515}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>ipad/sceneAssets/loadingLabel.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 643}, {320, 140}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {320, 140}}</string>
+			<key>sourceSize</key>
+			<string>{320, 140}</string>
+		</dict>
+		<key>ipad/sceneAssets/orIndicator.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{563, 793}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>ipad/sceneAssets/rightSideHand.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{517, 515}, {258, 276}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {258, 276}}</string>
+			<key>sourceSize</key>
+			<string>{258, 276}</string>
+		</dict>
+		<key>ipad/sceneAssets/rightWhiteSignal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{765, 793}, {200, 200}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {200, 200}}</string>
+			<key>sourceSize</key>
+			<string>{200, 200}</string>
+		</dict>
+		<key>ipad/sceneAssets/twoPoints.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 965}, {50, 94}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 94}}</string>
+			<key>sourceSize</key>
+			<string>{50, 94}</string>
+		</dict>
+		<key>ipad/sceneAssets/wwLabel.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {640, 400}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {640, 400}}</string>
+			<key>sourceSize</key>
+			<string>{640, 400}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 1024}</string>
+		<key>textureFileName</key>
+		<string>sceneAssets.png</string>
+	</dict>
+</dict>
+</plist>

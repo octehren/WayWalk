@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ipad/backgrounds/details/River/bgRiverDetail1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{803, 653}, {260, 260}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {260, 260}}</string>
+			<key>sourceSize</key>
+			<string>{260, 260}</string>
+		</dict>
+		<key>ipad/backgrounds/details/River/bgRiverDetail2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1327, 653}, {260, 260}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {260, 260}}</string>
+			<key>sourceSize</key>
+			<string>{260, 260}</string>
+		</dict>
+		<key>ipad/backgrounds/details/River/bgRiverDetail3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1065, 653}, {260, 260}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {260, 260}}</string>
+			<key>sourceSize</key>
+			<string>{260, 260}</string>
+		</dict>
+		<key>ipad/backgrounds/details/River/bgRiverSplash4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{103, 1}, {650, 1300}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {650, 1300}}</string>
+			<key>sourceSize</key>
+			<string>{650, 1300}</string>
+		</dict>
+		<key>ipad/backgrounds/details/River/lifeBar.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {800, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {800, 100}}</string>
+			<key>sourceSize</key>
+			<string>{800, 100}</string>
+		</dict>
+		<key>ipad/backgrounds/details/River/lifeBarBorder.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 803}, {800, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {800, 100}}</string>
+			<key>sourceSize</key>
+			<string>{800, 100}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 1024}</string>
+		<key>textureFileName</key>
+		<string>River.png</string>
+	</dict>
+</dict>
+</plist>
