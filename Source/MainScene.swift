@@ -24,7 +24,7 @@ class MainScene:CCNode {
     
     var backgroundSprites:[String] = ["River", "Canyon", "Galaxy"];
     
-    var loadingPopover = CCBReader.load("Loading");
+    static var loadingPopover = CCBReader.loadAsScene("Loading");
     
     func didLoadFromCCB() {
         if (Settings.sharedInstance.isFirstLoad) {
@@ -35,7 +35,7 @@ class MainScene:CCNode {
             
         }
         iAdHandler.sharedInstance.adBannerView.hidden = false;
-        self.loadingPopover.position = CGPoint(x: CCDirector.sharedDirector().viewSize().width * 0.5, y: CCDirector.sharedDirector().viewSize().height * 0.5);
+        MainScene.loadingPopover.position = CGPoint(x: CCDirector.sharedDirector().viewSize().width * 0.5, y: CCDirector.sharedDirector().viewSize().height * 0.5);
         let bg = Int(arc4random_uniform(UInt32(self.backgroundSprites.count)));
         let bgName = self.backgroundSprites[bg];
         let bgIndex = Int(arc4random_uniform(UInt32(3)));
@@ -45,10 +45,11 @@ class MainScene:CCNode {
         self.background.position.y = 0;
         self.background2.position.y = self.background.contentSize.height - 1;
     }
+    
     /* button methods */
     
     func startGame() {
-        self.popLoading();
+        MainScene.popLoading();
         if (Settings.sharedInstance.isSoundOn) {
             OALSimpleAudio.sharedInstance().playEffect("CrossIt_Sounds/ciStudiosButton.wav");
         }
@@ -66,7 +67,7 @@ class MainScene:CCNode {
     }
     
     func chooseFeet() {
-        //self.popLoading();
+        MainScene.popLoading();
         if (Settings.sharedInstance.isSoundOn) {
             OALSimpleAudio.sharedInstance().playEffect("CrossIt_Sounds/ciStudiosButton.wav");
         }
@@ -79,7 +80,7 @@ class MainScene:CCNode {
     }
     
     func chooseBg() {
-        //self.popLoading();
+        MainScene.popLoading();
         if (Settings.sharedInstance.isSoundOn) {
             OALSimpleAudio.sharedInstance().playEffect("CrossIt_Sounds/ciStudiosButton.wav");
         }
@@ -92,7 +93,7 @@ class MainScene:CCNode {
     }
     
     func tutorial() {
-        self.popLoading();
+        MainScene.popLoading();
         if (Settings.sharedInstance.isSoundOn) {
             OALSimpleAudio.sharedInstance().playEffect("CrossIt_Sounds/ciStudiosButton.wav");
         }
@@ -108,7 +109,7 @@ class MainScene:CCNode {
     
     /* custom methods */
     
-    func popLoading() {
-        self.addChild(self.loadingPopover);
+    static func popLoading() {
+        CCDirector.sharedDirector().pushScene(MainScene.loadingPopover);
     }
 }
