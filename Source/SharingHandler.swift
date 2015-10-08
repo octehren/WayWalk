@@ -13,7 +13,7 @@ class SharingHandler: UIViewController {
     
     // MARK: Constants
     
-    let defaultURL: String = "INSERT_YOUR_ITUNES_URL_HERE"
+    let defaultURL: String = "https://itunes.apple.com/app/id1038444882"
     
     
     // MARK: Singleton

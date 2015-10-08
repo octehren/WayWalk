@@ -26,6 +26,8 @@ class MainScene:CCNode {
     
     static var loadingPopover = CCBReader.loadAsScene("Loading");
     
+    /* cocos2d methods */
+    
     func didLoadFromCCB() {
         if (Settings.sharedInstance.isFirstLoad) {
             Settings.sharedInstance.isFirstLoad = false;
@@ -46,10 +48,14 @@ class MainScene:CCNode {
         self.background2.position.y = self.background.contentSize.height - 1;
     }
     
+    override func onExitTransitionDidStart() {
+        super.onExitTransitionDidStart();
+        MainScene.popLoading();
+    }
+    
     /* button methods */
     
     func startGame() {
-        MainScene.popLoading();
         if (Settings.sharedInstance.isSoundOn) {
             OALSimpleAudio.sharedInstance().playEffect("CrossIt_Sounds/ciStudiosButton.wav");
         }
@@ -67,7 +73,6 @@ class MainScene:CCNode {
     }
     
     func chooseFeet() {
-        MainScene.popLoading();
         if (Settings.sharedInstance.isSoundOn) {
             OALSimpleAudio.sharedInstance().playEffect("CrossIt_Sounds/ciStudiosButton.wav");
         }
@@ -80,7 +85,6 @@ class MainScene:CCNode {
     }
     
     func chooseBg() {
-        MainScene.popLoading();
         if (Settings.sharedInstance.isSoundOn) {
             OALSimpleAudio.sharedInstance().playEffect("CrossIt_Sounds/ciStudiosButton.wav");
         }
@@ -93,7 +97,6 @@ class MainScene:CCNode {
     }
     
     func tutorial() {
-        MainScene.popLoading();
         if (Settings.sharedInstance.isSoundOn) {
             OALSimpleAudio.sharedInstance().playEffect("CrossIt_Sounds/ciStudiosButton.wav");
         }

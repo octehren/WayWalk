@@ -232,7 +232,7 @@ class Tutorial:CCNode {
         self.rightSideHand.visible = false;
         self.leftSideHand.visible = false;
         self.orIndicator.visible = false;
-        self.backButton.visible = false;
+        //self.backButton.visible = false;
         self.backButton.userInteractionEnabled = false;
     }
     
@@ -295,19 +295,21 @@ class Tutorial:CCNode {
         } else if (tutorialStep == .Fourth) {
             self.currentRockIndex = 3;
             self.labelBg.visible = false;
+            self.backButton.visible = false;
             self.tutorialStep = .Fifth;
             self.stepsReq = 3;
             self.schedule("slip", interval: 1.0 / 60.0);
             self.slipIsScheduled = true;
         } else {
             self.labelBg.visible = true;
+            self.backButton.visible = true;
             self.unschedule("slip");
             self.userInteractionEnabled = false;
             if (Settings.sharedInstance.isSoundOn) {
                 OALSimpleAudio.sharedInstance().playEffect("CrossIt_Sounds/congrats.wav");
             }
-            self.backButton.visible = true;
-            self.backButton.userInteractionEnabled = true;
+            //self.backButton.visible = true;
+            //self.backButton.userInteractionEnabled = true;
         }
         self.updateLabel();
     }
@@ -602,6 +604,7 @@ class Tutorial:CCNode {
         self.rightFoot.visible = true;
         self.leftFoot.visible = true;
         self.userInteractionEnabled = true;
+        self.backButton.visible = true;
     }
     
     /*func popMotivational() {
